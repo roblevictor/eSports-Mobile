@@ -5,7 +5,7 @@ Bem-vindo ao Gamers Connect App - a sua plataforma para encontrar parceiros de j
 ## Sobre o Projeto
 O Gamers Connect App é um aplicativo desenvolvido para conectar jogadores interessados em encontrar parceiros para jogar juntos. A plataforma permite explorar anúncios, escolher entre jogos populares e encontrar parceiros com base na disponibilidade, tempo de jogo e preferência por chamadas de áudio. O projeto foi desenvolvido utilizando tecnologias modernas, como React Native, Typescript, Prisma ORM e SQLite.
 
-###Instruções de Instalação
+### Instruções de Instalação
 Para começar, siga os passos abaixo:
 
 ### 1. Clone o Repositório
