@@ -1,13 +1,14 @@
-##Gamers Connect App
+# Gamers Connect App
+
 Bem-vindo ao Gamers Connect App - a sua plataforma para encontrar parceiros de jogo e elevar a sua experiência de jogo para o próximo nível!
 
-Sobre o Projeto
+## Sobre o Projeto
 O Gamers Connect App é um aplicativo desenvolvido para conectar jogadores interessados em encontrar parceiros para jogar juntos. A plataforma permite explorar anúncios, escolher entre jogos populares e encontrar parceiros com base na disponibilidade, tempo de jogo e preferência por chamadas de áudio. O projeto foi desenvolvido utilizando tecnologias modernas, como React Native, Typescript, Prisma ORM e SQLite.
 
-Instruções de Instalação
+###Instruções de Instalação
 Para começar, siga os passos abaixo:
 
-1. Clone o Repositório
+### 1. Clone o Repositório
 bash
 Copy code
 git clone https://github.com/seu-usuario/gamers-connect-app.git
@@ -17,7 +18,7 @@ Certifique-se de estar no diretório do projeto e execute o seguinte comando par
 bash
 Copy code
 npm install
-3. Inicie a Aplicação
+## 3. Inicie a Aplicação
 Para iniciar a aplicação, utilize o comando:
 
 bash
@@ -25,7 +26,7 @@ Copy code
 npx expo start
 Este comando abrirá o Expo Developer Tools em seu navegador. Você pode escolher executar a aplicação em um emulador, dispositivo físico ou na web.
 
-Servidor de Desenvolvimento
+# Servidor de Desenvolvimento
 O servidor de desenvolvimento pode ser iniciado com o seguinte comando:
 
 bash
