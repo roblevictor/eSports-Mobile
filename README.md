@@ -1,4 +1,5 @@
-# Gamers Connect App
+# eSports Mobile
+
 
 Bem-vindo ao Gamers Connect App - a sua plataforma para encontrar parceiros de jogo e elevar a sua experiência de jogo para o próximo nível!
 
@@ -11,7 +12,7 @@ Para começar, siga os passos abaixo:
 ### 1. Clone o Repositório
 bash
 Copy code
-git clone https://github.com/seu-usuario/gamers-connect-app.git
+git clone https://github.com/seu-usuario/eSports-Mobile.git
 2. Instale as Dependências
 Certifique-se de estar no diretório do projeto e execute o seguinte comando para instalar as dependências necessárias.
 
