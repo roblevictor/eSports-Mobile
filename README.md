@@ -15,26 +15,24 @@ O Gamers Connect App é um aplicativo desenvolvido para conectar jogadores inter
 <img src="https://github.com/roblevictor/eSports-Mobile/assets/99829800/2ee607b8-4138-4ca9-9e80-30d44e37be94" width="210px" />
 </div>
 
-### Instruções de Instalação
-Para começar, siga os passos abaixo:
 
-### 1. Clone o Repositório
-bash
-Copy code
-git clone https://github.com/seu-usuario/eSports-Mobile.git
-2. Instale as Dependências
-Certifique-se de estar no diretório do projeto e execute o seguinte comando para instalar as dependências necessárias.
-https://github.com/roblevictor/eSports-Mobile/issues/1#issue-2135332729
-bash
-Copy code
-npm install
-## 3. Inicie a Aplicação
-Para iniciar a aplicação, utilize o comando:
 
-bash
-Copy code
-npx expo start
-Este comando abrirá o Expo Developer Tools em seu navegador. Você pode escolher executar a aplicação em um emulador, dispositivo físico ou na web.
+### Instalação
+Após a instalação do expo/React-Native em sua máquina
+
+Faça um clone do repositório do projeto no GitHub.
+
+Navegue até o diretório do projeto.
+
+Execute o seguinte comando para instalar as dependências:
+
+$ npm install
+
+Running the project
+
+$ npx expo start
+
+
 
 # Servidor de Desenvolvimento
 O servidor de desenvolvimento pode ser iniciado com o seguinte comando:
