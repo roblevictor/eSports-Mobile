@@ -1,7 +1,7 @@
 # eSports Mobile 🎮
 
 
-Bem-vindo ao Gamers Connect App - a sua plataforma para encontrar parceiros de jogo e elevar a sua experiência de jogo para o próximo nível!  🚀
+Bem-vindo ao  eSports Mobile  - a sua plataforma para encontrar parceiros de jogo e elevar a sua experiência de jogo para o próximo nível!  🚀
 
 
 ## Sobre o Projeto
