@@ -5,7 +5,7 @@ Bem-vindo ao  eSports Mobile  - a sua plataforma para encontrar parceiros de jog
 
 
 ## Sobre o Projeto
-O Gamers Connect App é um aplicativo desenvolvido para conectar jogadores interessados em encontrar parceiros para jogar juntos. A plataforma permite explorar anúncios, escolher entre jogos populares e encontrar parceiros com base na disponibilidade, tempo de jogo e preferência por chamadas de áudio. O projeto foi desenvolvido utilizando tecnologias modernas, como React Native, Typescript, Prisma ORM e SQLite.
+O  eSports Mobile App é um aplicativo desenvolvido para conectar jogadores interessados em encontrar parceiros para jogar juntos. A plataforma permite explorar anúncios, escolher entre jogos populares e encontrar parceiros com base na disponibilidade, tempo de jogo e preferência por chamadas de áudio. O projeto foi desenvolvido utilizando tecnologias modernas, como React Native, Typescript, Prisma ORM e SQLite.
 
 <div align="center">
 <img src="https://github.com/roblevictor/eSports-Mobile/assets/99829800/30c8884b-720a-46bb-b458-f42ebbfc0713" width="210px" />
@@ -33,13 +33,10 @@ Running the project
 $ npx expo start
 
 
-
 # Servidor de Desenvolvimento
 O servidor de desenvolvimento pode ser iniciado com o seguinte comando:
 
-bash
 
-Copy code
 
 ### npm run dev
 Este comando inicia o servidor e permite a interação do aplicativo com o banco de dados e outros recursos necessários para a funcionalidade completa do Gamers Connect App.
