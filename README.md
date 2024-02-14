@@ -17,7 +17,7 @@ O  eSports Mobile App é um aplicativo desenvolvido para conectar jogadores inte
 
 
 
-### Instalação
+## Instalação
 Após a instalação do expo/React-Native em sua máquina
 
 Faça um clone do repositório do projeto no GitHub.
