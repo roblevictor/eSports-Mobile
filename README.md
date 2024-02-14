@@ -40,8 +40,10 @@ Este comando abrirá o Expo Developer Tools em seu navegador. Você pode escolhe
 O servidor de desenvolvimento pode ser iniciado com o seguinte comando:
 
 bash
+
 Copy code
-npm run dev
+
+### npm run dev
 Este comando inicia o servidor e permite a interação do aplicativo com o banco de dados e outros recursos necessários para a funcionalidade completa do Gamers Connect App.
 
 Lembre-se de ajustar as configurações do Prisma no arquivo schema.prisma conforme necessário antes de iniciar o servidor.
